@@ -1,0 +1,169 @@
+body{
+    background-color: #f4f1eb;
+}
+#container{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f4f1eb;
+}
+#body{
+    background-color: #f4f1eb;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#profile{
+    float: left;
+    width: 30%;
+}
+#profile h3{
+    text-align: center;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    width: 250px;
+    -moz-border-radius:50px;
+    -webkit-border-radius: 50px;
+}
+#profile img{
+    background-color: #FFFFFF;
+    height: 250px;
+    -moz-border-radius:250px;
+    -webkit-border-radius: 250px;
+    width: 250px;
+}
+#info{
+    padding: 10px;
+    float: right;
+    width: 65%;
+}
+p{
+    text-indent: 50px;
+}
+ul{
+    list-style-type: none;
+    padding: 5px;          
+}
+#info h1{
+    text-align: center;
+}
+#work{
+    padding: 10px;
+    float: right;
+    width: 65%;
+}
+#work h1{
+    text-align: center;
+}
+#skill{
+padding: 10px;
+float: right;
+width: 65%;    
+}
+#skill h1{
+    text-align: center;
+}
+#contact{
+    padding: 10px;
+    float: right;
+    width: 65%;
+}
+#contact h1{
+    text-align: center;
+}
+
+
+#project_page{
+    /* padding: 10px;
+    float: right;
+    width: 65%;    */
+
+
+    align-items: center; 
+    padding: 10px;
+    width: 65%;   
+    height: 500px;
+    padding-top: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: flow-root;
+    justify-content: center;
+    align-items: center;
+}
+#project_page h1{
+    text-align: center;
+}
+#project_page p{
+    text-align: center;
+}
+
+
+
+#hoby{
+    padding: 10px;
+    width: 65%;   
+    height: 500px;
+    padding-top: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: flow-root;
+    justify-content: center;
+    align-items: center;
+}
+#hoby h1{
+    text-align: center;
+}
+#hoby img{
+    background-color: #FFFFFF;
+    height: 100px;
+    width: 100px;   
+    background-color: #f4f1eb;
+    
+}
+
+
+#fun{
+    height: 500px;
+    width: 50%;
+    padding-top: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+#fun h1{
+    text-align: center;
+}
+#fun img{
+    height: 250px;
+    width: 200px;
+    padding: 10px;
+    float: left;
+}
+
+#thank{
+    height: 500px;
+    width: 50%;
+    padding-top: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: flow-root;
+    justify-content: center;
+    align-items: center; 
+}
+#thank p{
+    text-align: center;
+}
+
+#thank img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
